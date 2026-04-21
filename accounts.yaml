@@ -1,5 +1,5 @@
 build:
-  version: "0.0.1-DEV"
+  version: "0.0.1-GIT-DEV"
 
 accounts:
   description: "This is the accounts service for managing user accounts DEV ENV."
