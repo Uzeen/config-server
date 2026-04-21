@@ -2,7 +2,7 @@ build:
   version: "0.0.1-GIT-DEV"
 
 accounts:
-  description: "This is the accounts service for managing user accounts Test-1 Uzeen"
+  description: "This is the accounts service for managing user accounts Test-2 Kanika"
   basePackage: "com.example.accounts"
   maintainer: "Uzeen Chhabra"
   email: "uzeen619@gmail.com"

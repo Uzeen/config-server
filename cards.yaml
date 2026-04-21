@@ -2,7 +2,7 @@ build:
   version: "0.0.1-DEV"
 
 cards:
-  description: "This is the cards service for managing user cards Test-1 Uzeen."
+  description: "This is the cards service for managing user cards Test-2 Kanika."
   basePackage: "com.example.cards"
   maintainer: "Uzeen Chhabra"
   email: "uzeen619@gmail.com"
