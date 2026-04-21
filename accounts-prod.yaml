@@ -2,8 +2,8 @@ build:
   version: "0.0.1-PROD"
 
 accounts:
-  description: "This is the accounts service for managing user accounts PROD ENV."
-  basePackage: "com.example.accounts"
+  description: "This is the accounts service for managing user accounts Production ENV."
+  basePackage: "com.gurvik.accounts"
   maintainer: "Uzeen Chhabra"
   email: "uzeen619@gmail.com"
   mobileNumbers:
