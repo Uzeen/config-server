@@ -2,7 +2,7 @@ build:
   version: "0.0.1-GIT-DEV"
 
 accounts:
-  description: "This is the accounts service for managing user accounts Devgelopment ENV."
+  description: "This is the accounts service for managing user accounts New Devgelopment Value ENV."
   basePackage: "com.example.accounts"
   maintainer: "Uzeen Chhabra"
   email: "uzeen619@gmail.com"
