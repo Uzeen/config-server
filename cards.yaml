@@ -1,0 +1,11 @@
+build:
+  version: "0.0.1-DEV"
+
+cards:
+  description: "This is the cards service for managing user cards DEV ENV."
+  basePackage: "com.example.cards"
+  maintainer: "Uzeen Chhabra"
+  email: "uzeen619@gmail.com"
+  mobileNumbers:
+    - "+1234567890"
+    - "+0987654321"
