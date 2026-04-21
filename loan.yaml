@@ -2,7 +2,7 @@ build:
   version: "0.0.1-DEV"
 
 loan:
-  description: "This is the loan service for managing user loan DEV ENV."
+  description: "This is the loan service for managing user loan Test-1 Uzeen."
   basePackage: "com.example.loan"
   maintainer: "Uzeen Chhabra"
   email: "uzeen619@gmail.com"
